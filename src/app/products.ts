@@ -1,3 +1,4 @@
+
 import {IProduct} from './models/iproduct';
 
 const products: IProduct[] = [ {

@@ -4,6 +4,6 @@ export interface IProduct {
     description: string;
     reviews: number;
     rating: number;
+    imgUrl: string;
     price: string;
-    imgUrl: 
 }
